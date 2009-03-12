@@ -1,3 +1,3 @@
-  Orchestra.instrument(:render, "template/path") do
-    render(...)
-  end
+    Orchestra.instrument(:render, "template/path") do
+      render(...)
+    end
